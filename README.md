@@ -137,12 +137,12 @@ Details about the folders and files:
 
 __Without using word2vec:__
 
-![Training graph](output\train.png)
+![Training graph](.\output\train.png)
 
-![validation graph](output\val.png)
+![validation graph](.\output\val.png)
 
 __With using word2vec:__
 
-![Training graph](output\train_w2v.png)
+![Training graph](.\output\train_w2v.png)
 
-![validation graph](output\val_w2v.png)
+![validation graph](.\output\val_w2v.png)
